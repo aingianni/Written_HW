@@ -17,3 +17,8 @@
 <p>
     JavaScript is a programming language that allows you to run logical conditional statements to determine if or when something should happen. In the case of a web page this can be applied to buttons, elements, timed events, etc... We can use JS to listen for specific events using our logic to check and then change the web page based on those conditions. JS is what makes the web page more dynamic.
 </p>
+
+## What is the difference between backend and frontend?
+<p>
+    Backend is where we take all the data and store it securely. This can include passwords, usernames, address's, statistics, etc... This information needs to be secure and put together so that the user can access it when it is needed. The user may have limited access to backend inforamtion and so we can use logic to determine if conditions are met for the user to get specific data. The frontend is the design and interaction of the webpage or app. The data will generally come from the backend and the designer for frontend will make sure the user can interact with and pull the nessecarry data through design.
+</p>
