@@ -1,6 +1,6 @@
 # Plus/Minus HackerRank Problem
 
-# Explanation
+## Explanation
 We are running a simple for loop that is tracking all positive/negative numbers and all zeros. Then we return those trackers divided by the length of the array and rounded off to the 6th decimal point.
 
 ```
