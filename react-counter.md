@@ -1,0 +1,1 @@
+There are two buttons that utilize state to indivually increment 1 based on the click. This is done with an onClick listener that is using the setCount state to increase the value by 1.
